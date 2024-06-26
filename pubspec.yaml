@@ -4,7 +4,7 @@ version: 0.0.3
 homepage: https://github.com/kaanakyalcin/wise_bluetooth_print
 
 environment:
-  sdk: ">=2.16.0 <3.3.10"
+  sdk: ">=2.16.0"
   flutter: ">=2.5.0"
 
 dependencies:
